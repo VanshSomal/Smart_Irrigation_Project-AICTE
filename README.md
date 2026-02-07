@@ -2,11 +2,22 @@
 
 KrishiMind is an AI-powered Smart Irrigation System developed as a project under the AICTE Virtual Internship (Cycle 2).
 The goal of this project is to predict which sprinklers should be turned ON/OFF based on sensor values (scaled between 0 to 1) using a trained Machine Learning model.
+🚀 Live Demo
+
+👉 Streamlit App: https://smart-irrigation-system-project-aicte-vansh-somal.streamlit.app/
+
+▶️ How to Run This Project Locally
+1️⃣ Clone the repository
+git clone https://github.com/VanshSomal/Smart_Irrigation_Project-AICTE.git
+cd your-repo-name
+2️⃣ Install dependencies
+pip install streamlit numpy pandas scikit-learn joblib matplotlib
+3️⃣ Run the Streamlit App
+streamlit run app.py
 
 This project includes:
 
 A Jupyter Notebook for data preprocessing, model training, and evaluation
-
 A Streamlit Web App for real-time sprinkler prediction and interactive visualization
 
 📌 Project Overview
@@ -105,17 +116,6 @@ Visual analysis of sprinkler patterns
 Model saved as:
 
 Farm_Irrigation_System.pkl
-
-▶️ How to Run This Project Locally
-1️⃣ Clone the repository
-git clone https://github.com/VanshSomal/Smart_Irrigation_Project-AICTE.git
-cd your-repo-name
-
-2️⃣ Install dependencies
-pip install streamlit numpy pandas scikit-learn joblib matplotlib
-
-3️⃣ Run the Streamlit App
-streamlit run app.py
 
 🧾 Notes / Credits
 

@@ -108,7 +108,7 @@ Farm_Irrigation_System.pkl
 
 ▶️ How to Run This Project Locally
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/VanshSomal/Smart_Irrigation_Project-AICTE.git
 cd your-repo-name
 
 2️⃣ Install dependencies
